@@ -253,8 +253,8 @@ COL_LIST = [
 
 
 DATA_LIST = [
-    (10, 'paddu', 'BCA'),
-    (14, 'pradyumna', 'bbca'),
+    (10, 'testname1', 'test'),
+    (14, 'name2', 'test2'),
     (1, 'hacked', 'HACKER')
 ]
 
